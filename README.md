@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LP-user1&show_icons=true&locale=en" alt="LP-user1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LP-user1&" alt="LP-user1" /></p>
+
+<p><a href="https://www.freepik.com/free-vector/cartoon-style-nerd-character-design_22896449.htm#query=cartoon%20programmer&position=13&from_view=keyword&track=ais">Image by pikisuperstar</a> on Freepik</p>
